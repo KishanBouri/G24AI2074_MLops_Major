@@ -147,8 +147,21 @@ https://github.com/KishanBouri/G24AI2074_MLops_Major
 
 https://hub.docker.com/r/kishan2074/mlops-app
 
- 
+ # Conclusion
+
+This project successfully demonstrates:
+
+End-to-end MLOps workflow
+
+CI/CD automation
+
+Containerization
+
+Cloud-native deployment with Kubernetes
+
+The entire assignment requirements are completed and validated.
 
 
   
+
 
